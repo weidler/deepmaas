@@ -15,6 +15,7 @@
 #### Videos
 
 [NeurIPS 2020 Tutorial: Deep Implicit Layers](https://www.youtube.com/watch?v=MX1RJELWONc)
+[Talk by Zico Kolter: Equilibrium Models in Deep Learning](https://www.youtube.com/watch?v=NLfCPcnns10)
 
 ### Further Reading
 
